@@ -1,0 +1,5 @@
+name: composable_architecture_flutterw
+environment:
+  sdk: ">=3.9.2 <4.0.0"
+dev_dependencies:
+  melos: ^6.3.3

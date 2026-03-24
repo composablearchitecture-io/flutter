@@ -1,0 +1,25 @@
+name: composable_architecture_flutterw
+description: A widget binding for the composable architecture
+version: 0.1.0
+repository: https://github.com/composablearchitecture-io/flutter
+topics:
+  - state-management
+  - architecture
+  - composable
+  - widgets
+  - unidirectional
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+  flutter: ">=3.0.0"
+
+# Add regular dependencies here.
+dependencies:
+  flutter:
+    sdk: flutter
+  composable_architecture_core: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^2.0.0

@@ -1,0 +1,17 @@
+name: composable_architecture_core
+description: The Composable Architecture Core written in dart
+version: 0.1.0
+repository: https://github.com/composablearchitecture-io/flutter
+topics:
+  - state-management
+  - architecture
+  - composable
+  - reducer
+  - unidirectional
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dev_dependencies:
+  test: ^1.21.0
+  lints: ^2.0.0

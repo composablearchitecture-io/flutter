@@ -1,0 +1,22 @@
+name: composable_architecture
+
+packages:
+  - packages/*
+  - packages/*/example
+
+scripts:
+  
+  fix:
+    run: dart fix --apply .
+    exec:
+      orderDependents: true
+
+  format:
+    run: dart format .
+    exec:
+      orderDependents: true
+
+  test:
+    run: dart test
+    exec:
+      orderDependents: true
