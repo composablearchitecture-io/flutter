@@ -1,0 +1,19 @@
+{
+  "name": "composable-architecture-marketplace",
+  "owner": {
+    "name": "dagyu",
+    "email": "dagyu@composablearchitecture.io"
+  },
+  "metadata": {
+    "description": "Skills for building apps with the Composable Architecture pattern in Dart/Flutter",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "composable-architecture-flutter",
+      "source": "./",
+      "description": "Scaffolding and guidance for the Composable Architecture pattern — features, reducers, routes, effects, and store scoping",
+      "version": "0.1.0"
+    }
+  ]
+}

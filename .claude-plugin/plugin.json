@@ -1,0 +1,15 @@
+{
+  "name": "composable-architecture-flutter",
+  "version": "0.1.0",
+  "description": "Claude Code skills for the Composable Architecture pattern in Dart/Flutter — scaffolding features, reducers, routes, effects, and store scoping.",
+  "skills": [
+    "./skills/create-feature",
+    "./skills/create-reducer",
+    "./skills/create-route",
+    "./skills/add-effect",
+    "./skills/scope-store",
+    "./skills/init-project",
+    "./skills/create-binding",
+    "./skills/create-rule"
+  ]
+}
